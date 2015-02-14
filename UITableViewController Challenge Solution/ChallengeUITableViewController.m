@@ -1,18 +1,18 @@
 //
-//  UITableViewController.m
+//  ChallengeUITableViewController.m
 //  UITableViewController Challenge Solution
 //
 //  Created by Wasif on 2/14/15.
 //  Copyright (c) 2015 IhsaanFusion. All rights reserved.
 //
 
-#import "UITableViewController.h"
+#import "ChallengeUITableViewController.h"
 
-@interface UITableViewController ()
+@interface ChallengeUITableViewController ()
 
 @end
 
-@implementation UITableViewController
+@implementation ChallengeUITableViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
